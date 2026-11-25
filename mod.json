@@ -1,0 +1,14 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "fallgamedev.explorers-first-level",
+	"name": "Explorers First Level",
+	"version": "v1.0.0",
+	"developer": "FallGameDev",
+	"description": "Puts the demon level Explorers (ID 104138684) in the first slot of the main levels menu."
+}
